@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "stack": "cpp",
+        "ostream": "cpp",
+        "queue": "cpp",
+        "vector": "cpp",
+        "__node_handle": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp"
+    }
+}
